@@ -10,8 +10,14 @@ public class SearchFlightTest extends BaseTest {
 	@Test
 	public void test1() {
 		
-		Assert.assertTrue(false);
+		Assert.assertTrue(false);;
 
 	}
 
+	@Test
+	public void test2() {
+		
+		Assert.assertTrue(true);
+
+	}
 }
